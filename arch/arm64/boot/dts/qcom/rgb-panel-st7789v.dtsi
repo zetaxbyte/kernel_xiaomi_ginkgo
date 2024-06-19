@@ -14,7 +14,7 @@
 &mdss_mdp {
 	rgb_st7789v: qcom,mdss_rgb_st7789v {
 		qcom,mdss-rgb-panel-name = "st7789v LCD rgb panel";
-		qcom,mdss-rgb-panel-framerate = <69>;
+		qcom,mdss-rgb-panel-framerate = <60>;
 		qcom,mdss-rgb-panel-width = <240>;
 		qcom,mdss-rgb-panel-height = <320>;
 		qcom,mdss-rgb-h-front-porch = <38>;

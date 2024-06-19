@@ -86,7 +86,7 @@
 					label = "wfi";
 					qcom,psci-cpu-mode = <0x1>;
 					qcom,entry-latency-us = <61>;
-					qcom,exit-latency-us = <69>;
+					qcom,exit-latency-us = <60>;
 					qcom,min-residency-us = <121>;
 				};
 

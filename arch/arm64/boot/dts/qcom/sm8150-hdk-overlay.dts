@@ -84,7 +84,7 @@
 				lt,mode-v-pulse-width = <5>;
 				lt,mode-v-back-porch = <36>;
 				lt,mode-v-active-high;
-				lt,mode-refresh-rate = <69>;
+				lt,mode-refresh-rate = <60>;
 				lt,mode-clock-in-khz = <148500>;
 			};
 		};

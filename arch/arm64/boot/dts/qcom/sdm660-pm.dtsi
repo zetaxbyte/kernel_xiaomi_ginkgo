@@ -236,7 +236,7 @@
 						qcom,psci-cpu-mode = <2>;
 						label = "ret";
 						qcom,entry-latency-us = <50>;
-						qcom,exit-latency-us = <69>;
+						qcom,exit-latency-us = <60>;
 						qcom,min-residency-us = <181>;
 					};
 
