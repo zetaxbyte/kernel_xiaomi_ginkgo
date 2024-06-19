@@ -15,7 +15,7 @@
 		qcom,mdss-dsi-panel-name = "Dual nt35597 video mode dsi
 			panel without DSC";
 		qcom,mdss-dsi-panel-type = "dsi_video_mode";
-		qcom,mdss-dsi-panel-framerate = <60>;
+		qcom,mdss-dsi-panel-framerate = <69>;
 		qcom,mdss-dsi-virtual-channel-id = <0>;
 		qcom,mdss-dsi-stream = <0>;
 		qcom,mdss-dsi-panel-width = <720>;
@@ -79,7 +79,7 @@
 		qcom,mdss-pan-physical-width-dimension = <74>;
 		qcom,mdss-pan-physical-height-dimension = <131>;
 		qcom,mdss-dsi-min-refresh-rate = <55>;
-		qcom,mdss-dsi-max-refresh-rate = <60>;
+		qcom,mdss-dsi-max-refresh-rate = <69>;
 		qcom,mdss-dsi-pan-enable-dynamic-fps;
 		qcom,mdss-dsi-pan-fps-update = "dfps_immediate_porch_mode_vfp";
 

@@ -114,7 +114,7 @@
 	qcom,fg-cutoff-voltage = <3400>;
 	qcom,fg-recharge-voltage = <4100>;
 	qcom,fg-esr-pulse-thresh-ma = <40>;
-	qcom,fg-esr-meas-curr-ma = <60>;
+	qcom,fg-esr-meas-curr-ma = <69>;
 	qcom,fg-use-sw-esr;
 	qcom,fg-cutoff-current = <50>;
 	qcom,fg-sync-sleep-threshold-ma = <30>;
